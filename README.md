@@ -1,47 +1,33 @@
-# Hi, I'm Mildrey Ruiz 👋
+# Mildrey Ruiz
 
-**Web developer · UI/UX designer · Data analysis** — based in Ciudad Real, Spain.
+**Web developer · Computer Science graduate (University of Havana) · Director of photography and filmmaker**
+Ciudad Real, Spain · [mildreyruiz.com](https://mildreyruiz.com) · [LinkedIn](https://www.linkedin.com/in/mildreymarylaruiz)
 
-Computer Science graduate (University of Havana, 2001) with a background in software engineering, networks and mobile agents. I've been building websites since 2003 and, for 15+ years, I've also led audiovisual and digital content projects: 1,000+ projects delivered at my own company, La Rueda Films.
+I graduated in Computer Science in 2001 and began my career as a software engineer and web developer. I then spent many years in audiovisual production, where I now direct teams and projects. I build websites and design interfaces, and I am looking to work again in web development and data.
 
-## What I work with
-
-- **Web:** PHP, JavaScript, WordPress, Wix, HTML/CSS, UI/UX design in Figma
-- **Data:** SQL and databases, Excel (advanced), Power BI, Python
-- **Hosting & deployment:** Cloudflare (Workers, DNS), domains and HTTPS
-- **Also:** Java, C/C++, C#, and a Computer Science foundation that lets me pick up new languages and frameworks quickly
+*Ingeniera en Ciencias de la Computación (Universidad de La Habana, 2001). Empecé como ingeniera de software y desarrolladora web, y después me dediqué al audiovisual, donde dirijo equipos y proyectos. Hoy diseño y programo sitios web y busco volver al desarrollo web y al análisis de datos.*
 
 ## Projects
 
-- **[mildreyruiz.com](https://mildreyruiz.com)** — my bilingual (ES/EN) portfolio, designed, built and deployed by me
-- **La Rueda Films Productions website** — company site for my production company (in progress)
+| Project | What it is |
+|---|---|
+| [mildreyruiz-portfolio](https://github.com/mildreyruiz-ai/mildreyruiz-portfolio) | My bilingual (ES/EN) portfolio site, live at mildreyruiz.com. Hosted on Cloudflare, with custom domain, DNS and HTTPS. |
+| [laruedafilms-web](https://github.com/mildreyruiz-ai/laruedafilms-web) | Bilingual website for La Rueda Films Productions, the audiovisual company I founded. Services, reels, team and CV downloads. Live at [laruedafilmsproductions.com](https://www.laruedafilmsproductions.com). |
+| [frigidaire-tango-web](https://github.com/mildreyruiz-ai/frigidaire-tango-web) | Web design concept for the Italian band Frigidaire Tango. |
+| [artmusic-group-web](https://github.com/mildreyruiz-ai/artmusic-group-web) | Web design concept that unifies the distribution, studio and accommodation sites of Art Music Group. |
 
-## Find me
+## Skills
 
-- Portfolio: [mildreyruiz.com](https://mildreyruiz.com)
-- LinkedIn: [linkedin.com/in/mildreymarylaruiz](https://www.linkedin.com/in/mildreymarylaruiz)
+- **Web:** HTML, CSS, vanilla JavaScript, PHP, WordPress, Wix, responsive and bilingual sites.
+- **Hosting and deployment:** domain management, DNS, static-site deployment on Cloudflare, HTTPS.
+- **Data:** SQL (querying and programming), relational databases, metrics analysis, advanced Excel, Power BI.
+- **Background:** Java, C/C++, C#, Python, Unix and more, from my Computer Science degree.
+- **Design and media:** UI/UX with Figma, Photoshop, After Effects, DaVinci Resolve, Premiere Pro.
 
----
+## About my work
 
-# Hola, soy Mildrey Ruiz 👋
+Most of these sites were built with an AI-assisted workflow (Claude) for drafting and review. The design decisions, content, structure, checks and deployment are mine.
 
-**Desarrolladora web · Diseñadora UI/UX · Análisis de datos** — desde Ciudad Real, España.
+## Contact
 
-Licenciada en Ciencias de la Computación (Universidad de La Habana, 2001), con base en ingeniería de software, redes y agentes móviles. Creo sitios web desde 2003 y, durante más de 15 años, también he dirigido proyectos audiovisuales y de contenido digital: más de 1.000 proyectos entregados en mi propia empresa, La Rueda Films.
-
-## Con qué trabajo
-
-- **Web:** PHP, JavaScript, WordPress, Wix, HTML/CSS, diseño UI/UX en Figma
-- **Datos:** SQL y bases de datos, Excel avanzado, Power BI, Python
-- **Hosting y despliegue:** Cloudflare (Workers, DNS), dominios y HTTPS
-- **También:** Java, C/C++, C#, y una base en Ciencias de la Computación que me permite adoptar rápido nuevos lenguajes y frameworks
-
-## Proyectos
-
-- **[mildreyruiz.com](https://mildreyruiz.com)** — mi portfolio bilingüe (ES/EN), diseñado, construido y desplegado por mí
-- **Web de La Rueda Films Productions** — sitio de mi productora (en progreso)
-
-## Contacto
-
-- Portfolio: [mildreyruiz.com](https://mildreyruiz.com)
-- LinkedIn: [linkedin.com/in/mildreymarylaruiz](https://www.linkedin.com/in/mildreymarylaruiz)
+[mildreyruiz.com](https://mildreyruiz.com) · [LinkedIn](https://www.linkedin.com/in/mildreymarylaruiz)
