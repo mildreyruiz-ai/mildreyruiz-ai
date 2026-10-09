@@ -12,6 +12,8 @@ I graduated in Computer Science in 2001 and began my career as a software engine
 | Project | What it is |
 |---|---|
 | [ciudad-real-turismo-datos](https://github.com/mildreyruiz-ai/ciudad-real-turismo-datos) | Data analysis project: 27 years of official INE hotel-tourism data for Ciudad Real. Python, SQL, advanced Excel and Power BI, with a [published web page](https://mildreyruiz-ai.github.io/ciudad-real-turismo-datos/web/) of findings. |
+| [tienda-musica-kpis-sql](https://github.com/mildreyruiz-ai/tienda-musica-kpis-sql) | Business KPIs of a sample music store: 10 SQL queries (CTEs, window functions, cohorts, RFM segmentation), cross-checked in pandas, with a [published web page](https://mildreyruiz-ai.github.io/tienda-musica-kpis-sql/web/). |
+| [spotify-sonido-musica](https://github.com/mildreyruiz-ai/spotify-sonido-musica) | Data story on 26,000 Spotify tracks (1970-2019): songs are shorter, less cheerful and louder. Python and pandas, with a [published web page](https://mildreyruiz-ai.github.io/spotify-sonido-musica/web/). |
 | [mildreyruiz-portfolio](https://github.com/mildreyruiz-ai/mildreyruiz-portfolio) | My bilingual (ES/EN) portfolio site. Hosted on Cloudflare, with custom domain, DNS and HTTPS. Live at [mildreyruiz.com](https://www.mildreyruiz.com). |
 | [laruedafilms-web](https://github.com/mildreyruiz-ai/laruedafilms-web) | Bilingual website for La Rueda Films Productions, the audiovisual company I founded. Services, reels, team and CV downloads. Live at [laruedafilmsproductions.com](https://www.laruedafilmsproductions.com). |
 | [frigidaire-tango-web](https://github.com/mildreyruiz-ai/frigidaire-tango-web) | Web design concept for the Italian band Frigidaire Tango. |
