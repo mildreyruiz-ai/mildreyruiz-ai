@@ -24,7 +24,7 @@ I graduated in Computer Science in 2001 and began my career as a software engine
 - **Data:** SQL (querying and programming), relational databases, metrics analysis, advanced Excel, Power BI.
 - **Background:** Java, C/C++, C#, Python, Unix and more, from my Computer Science degree.
 - **AI:** generative AI in daily workflows (Claude, ChatGPT, Midjourney, Runway), Claude Code, human–AI team design. Anthropic certified (AI Fluency, Claude Code, Claude Cowork).
-- **Design and media:** UI/UX with Figma, Photoshop, After Effects, DaVinci Resolve, Premiere Pro.
+- **Design and media:** UI/UX with Figma, Photoshop, After Effects, DaVinci Resolve, Premiere Pro, Canva.
 
 ## About my work
 
